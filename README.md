@@ -13,7 +13,7 @@ Implementations are for learning purposes only. As they may be less efficient th
 
 # Project Gimbel Mexicana
 
-* GitHub: https://github.com/PandasBots/gimbel-pypi
+* GitHub: https://github.com/PandasBots/pandasbots-gimbel
 * Ref.: https://gimbelmexicana.com/
 * Author: Rafael Klanfer Nunes
 * Date: 30/05/2022
