@@ -11,13 +11,17 @@ Implementations are for learning purposes only. As they may be less efficient th
 
 <div align="left">
 
+# DISCLAIMER
+
+This package requires selenium. For that reason it will may not work if you are using Google Colab or similar.
+
 # Project Gimbel Mexicana
 
 * GitHub: https://github.com/PandasBots/pandasbots-gimbel
 * Ref.: https://gimbelmexicana.com/
 * Author: Rafael Klanfer Nunes
 * Date: 01/06/2022
-* Pypi Version: 1.6.1
+* Pypi Version: 1.6.2
 
 ## Description:
 
