@@ -1,22 +1,19 @@
-''' read the contents of your README file '''
 import setuptools
 
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="gimbel",
-    version="0.0.1",
-    license='MIT',
+    name="pandasbots-gimbel",
+    version="1.6.1",
     author="Rafael Klanfer Nunes",
     author_email="comercial@pandasbots.com",
     description="This package allows you to scrap Gimbel Mexicana website and return product infos.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    keywords='gimbel project',
-    url="https://pandasbots.com/",
+    url="https://pandasbots.com",
     project_urls={
-        "Git Hub": "https://github.com/PandasBots/gimbel-pypi",
+        "Source Code": "https://github.com/PandasBots/pandasbots-gimbel",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -25,5 +22,7 @@ setuptools.setup(
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
+    install_requires=["pandas", "selenium", "webdriver-manager", "beautifulsoup4", "openpyxl"],
     python_requires=">=3.6",
+    
 )
