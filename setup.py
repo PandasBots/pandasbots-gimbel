@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pandasbots-gimbel",
-    version="1.6.2",
+    version="1.6.3",
     author="Rafael Klanfer Nunes",
     author_email="comercial@pandasbots.com",
     description="This package allows you to scrap Gimbel Mexicana website and return product infos.",
