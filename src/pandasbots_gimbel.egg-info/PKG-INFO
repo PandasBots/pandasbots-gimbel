@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pandasbots-gimbel
-Version: 1.5.1
+Version: 1.6.1
 Summary: This package allows you to scrap Gimbel Mexicana website and return product infos.
 Home-page: https://pandasbots.com
 Author: Rafael Klanfer Nunes
@@ -31,7 +31,8 @@ Implementations are for learning purposes only. As they may be less efficient th
 * GitHub: https://github.com/PandasBots/pandasbots-gimbel
 * Ref.: https://gimbelmexicana.com/
 * Author: Rafael Klanfer Nunes
-* Date: 30/05/2022
+* Date: 01/06/2022
+* Pypi Version: 1.6.1
 
 ## Description:
 
