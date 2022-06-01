@@ -46,9 +46,9 @@ User will input the website URL and the program will return:
 
 ### Usage
 
-    >>> from gimbel_scraper import get_product_info
+    >>> from gimbel import gimbel_scraper
     >>> URL = "https://gimbelmexicana.com/gimbel/store/articulo/16680"
-    >>> data = get_product_info(URL)
+    >>> data = gimbel_scraper.get_product_info(URL)
     >>> print(data)
 
 ### Return
