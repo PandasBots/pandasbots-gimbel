@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/gimbel/__init__.py
+src/gimbel/__main__.py
+src/gimbel/gimbel_scraper.py
+src/gimbel.egg-info/PKG-INFO
+src/gimbel.egg-info/SOURCES.txt
+src/gimbel.egg-info/dependency_links.txt
+src/gimbel.egg-info/top_level.txt
