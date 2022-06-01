@@ -16,7 +16,8 @@ Implementations are for learning purposes only. As they may be less efficient th
 * GitHub: https://github.com/PandasBots/pandasbots-gimbel
 * Ref.: https://gimbelmexicana.com/
 * Author: Rafael Klanfer Nunes
-* Date: 30/05/2022
+* Date: 01/06/2022
+* Pypi Version: 1.6.1
 
 ## Description:
 
